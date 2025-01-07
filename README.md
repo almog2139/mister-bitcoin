@@ -1,27 +1,34 @@
-# MisterBitCoin
+# Mister Bitcoin - Cryptocurrency Management App
+URL https://almog2139.github.io/mister-bitcoin/#/
+**Mister Bitcoin** is a demonstration app built using **Angular** that simulates cryptocurrency management. It allows users to view and manage cryptocurrency transactions, perform CRUD operations, and interact with an external API to fetch real-time data.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+## Features
 
-## Development server
+- **Full CRUD Operations**: Create, Read, Update, and Delete cryptocurrency transactions.
+- **Real-time Data**: Fetch and display data from an external API to view live cryptocurrency prices.
+- **Admin Panel**: The app includes an admin panel where users can manage all actions and data.
+- **Authentication**: Admin access via username and password.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Technologies Used
 
-## Code scaffolding
+- **Front-end**: Built using **Angular** for a dynamic and responsive user interface.
+- **Back-end API**: The app interacts with an external API to fetch cryptocurrency data and display it to users.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## How to Access the Demo
 
-## Build
+To access the demo, use the following credentials:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- **Username**: ADMIN
+- **Password**: 1234
 
-## Running unit tests
+Once logged in, you can interact with the app to manage cryptocurrency data, view transaction history, and more.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How to Run the Project
 
-## Running end-to-end tests
+### Clone the repository:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/almog2139/mister-b
+![Screenshot](https://github.com/user-attachments/assets/c8d6eba6-892a-48fb-82ae-ebaba2c83cb1)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
